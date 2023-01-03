@@ -31,3 +31,11 @@ justify-content: flex-end
     display: flex;
   align-items: flex-end
   }
+
+
+  6)
+  #pond {
+    display: flex;
+  align-items: center;
+  justify-content: center
+  }
